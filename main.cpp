@@ -102,7 +102,6 @@ int main()
 		int nr_guesses = 1;
 		int upper_last = r_upper;
 		int lower_last = r_lower;
-		std::cout << solution;
 
 		std::cout << "You have " << guesses_avail << " guesses in total.\n";
 		std::cout << "Let's go, guess the number!\n";
